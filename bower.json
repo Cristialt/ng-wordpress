@@ -1,0 +1,32 @@
+{
+  "name": "ng-wordpress",
+  "homepage": "https://github.com/Cristialt/ng-wordpress",
+  "description": "A responsive wp-theme starter based on WP REST API, Angular and Foundation-sites",
+  "main": "index.php",
+  "keywords": [
+    "Wordpress",
+    "WP",
+    "REST",
+    "API",
+    "Angular",
+    "Sass",
+    "Foundation"
+  ],
+  "authors": [
+    "Cristian Maghiar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "foundation-sites": "^6.2.3",
+    "underscore": "^1.8.3"
+  }
+}
