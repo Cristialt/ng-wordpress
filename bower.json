@@ -12,9 +12,7 @@
     "Sass",
     "Foundation"
   ],
-  "authors": [
-    "Cristian Maghiar"
-  ],
+  "authors": [ "Cristian Maghiar"],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -27,6 +25,8 @@
   "dependencies": {
     "angular-route": "^1.5.8",
     "foundation-sites": "^6.2.3",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "motion-ui": "^1.2.2",
+    "font-awesome": "^4.6.3"
   }
 }
